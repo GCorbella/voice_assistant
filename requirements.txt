@@ -1,0 +1,5 @@
+pyttsx3 == 2.90
+SpeechRecognition == 3.8.1
+pyjokes == 0.6.0
+pywhatkit == 5.4
+yfinance == 0.1.72
